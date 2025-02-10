@@ -1,2 +1,2 @@
 all:
-	gcc -o main lab3
+	gcc -o main sample.c
