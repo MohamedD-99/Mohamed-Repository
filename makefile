@@ -1,2 +1,2 @@
 all:
-	gcc -o main lab2
+	gcc -o main lab3
